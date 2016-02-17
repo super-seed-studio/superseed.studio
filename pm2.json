@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "superseed.studio",
+    "script": "www/production.js",
+    "cwd": "/Users/kugua/github/superseed.studio/.",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
